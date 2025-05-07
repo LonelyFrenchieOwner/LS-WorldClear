@@ -12,21 +12,10 @@ I saw someone selling a script like this for $12, so I decided to make one for f
 * **Custom NUI notification** (Can be toggled on/off)
 * **Chat alerts** (Can be toggled on/off)
 
-# Downloads;
-***
-Direct; 
-[LS-WorldClear.rar|attachment](upload://fMiKbXcEbtfm0XIhY5enSvrsVY0.rar) (4.0 KB)
-
-Github;
-
-
-
-
 # Config;
 ***
 
-![image|690x196](upload://gTbryeA1zarO8EpbmgLL38cko2v.png)
-
+![image](https://github.com/user-attachments/assets/58f263da-9e4a-4d71-beb1-501ba0efa352)
 
 Fairly self explanaitory, support is provided though!
 
